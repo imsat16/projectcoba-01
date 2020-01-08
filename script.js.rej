@@ -1,0 +1,9 @@
+diff a/script.js b/script.js	(rejected hunks)
+@@ -1,4 +1,4 @@
+ console.log('ok');
+ function pesan () {
+-	alert("menampilkan pesan dengan eksternal javascript 11111");
+-}
++	alert("menampilkan pesan dengan eksternal javascript");
++}
+\ No newline at end of file
